@@ -4,9 +4,12 @@
 
 
 <div align="center">
-  <a href="https://github.com/BrenosDias">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenosDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenosDias&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrenosDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" 
+       style="width="49%" height="195px";" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenosDias&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+       style="width="41%" height="195px";" />
 </div>
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenosDias&theme=gotham&hide_color=3498DB&border=true&area=true_color=3498DB&color=3498DB&line=0EA0E3&point=1B4F72&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
